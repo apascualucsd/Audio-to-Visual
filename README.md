@@ -11,3 +11,6 @@ Teensy_Transmitter_V1 and Teensy_Transmitter_V2
 ESP32_Receiver:
 - Queue to store data
 - Spectrogram function
+
+## Project Website:
+https://hamesjan.github.io/tritone_website/
