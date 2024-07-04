@@ -1,6 +1,6 @@
 # Audio-to-Visual
 
-Developed an innovative system that collects FFT data from a microphone, incorporating advanced signal filtering and amplification techniques. Leveraged a neural network to analyze and predict color representations based on the musical context, enabling the conversion of auditory information into dynamic visualizations. Created an adaptive spectrogram that tracks amplitude and frequency variations in real-time, providing a vivid and responsive visual representation of the audio data
+Developed a system that converts FFT data from a microphone into dynamic visualizations. Implemented advanced signal filtering and amplification and used a neural network to predict color representations based on audio context. Created a responsive visual representation of audio data.
 
 ## My Role:
 
