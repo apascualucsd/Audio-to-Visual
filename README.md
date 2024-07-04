@@ -6,4 +6,8 @@ Developed an innovative system that collects FFT data from a microphone, incorpo
 
 Engineered an advanced algorithm to transform audio data captured from a microphone into precise frequency and amplitude components, which are then seamlessly converted into RGB tuples for sophisticated data visualization and analysis.
 
-Teensy_Receiver_V1 and Teensy_Receiver_V2
+Teensy_Transmitter_V1 and Teensy_Transmitter_V2
+
+ESP32_Receiver:
+- Queue to store data
+- Spectrogram function
